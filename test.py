@@ -41,5 +41,3 @@ import * from test
 object1.age = 20
 object1.sum(2, 9)
 
-def sum(x, y):
-    return (x+y)
